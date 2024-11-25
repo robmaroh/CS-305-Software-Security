@@ -1,5 +1,4 @@
-# CS-305-Software-Security
-CS-305 Software Security
+# Software Security with SSL
 
 Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 
